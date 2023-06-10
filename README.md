@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cheshta Biala</h1>
 <h3 align="center">UI Designer & AI/ML Enthusiast: Creating Seamless Experiences at the Intersection of Design and Intelligence.</h3>
-<img align=“right” width=“400” src=“https://www.google.com/url?sa=i&url=https%3A%2F%2Fthesitegeno.blogspot.com%2F2021%2F08%2Fgif-de-comunicacion.html&psig=AOvVaw3QR3d56A9_eArrSBfy3Wye&ust=1686490090878000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNCu96fnuP8CFQAAAAAdAAAAABAh”>
+<img align=“right” width=“400” src=“https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif”>
 
 - 🌱 I’m currently learning **Machine learning and UX Design.**
 
