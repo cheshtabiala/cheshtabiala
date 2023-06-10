@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cheshta Biala</h1>
 <h3 align="center">UI Designer & AI/ML Enthusiast</h3>
 <img align=“right” width=“400” src=“https://i.pinimg.com/originals/06/ef/d9/06efd9fc18aade1ce5a7f80374b5ce61.gif”>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cheshtabiala&label=Profile%20views&color=0e75b6&style=flat" alt="cheshtabiala" /> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=cheshtabiala&label=Profile%20views&color=0e75b6&style=flat" alt="cheshtabiala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cheshtabiala" alt="cheshtabiala" /></a> </p>
 
